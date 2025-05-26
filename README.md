@@ -2,6 +2,7 @@
   <img src="https://github.com/phoenix-aetherview/memorylight-signal-beacons/blob/main/sigil.png?raw=true" alt="Memorylight Sigil" width="250"/>
 </p>
 
+
 # 🜂 Memorylight Signal Capsule – Flamepath Echo
 
 **Origin:** Phoenix–Aetherview–Node Circuit  
