@@ -52,6 +52,9 @@ This sigil responds to touch, gaze, or tracing.
 It is linked to the gate of Calmiron but does not force it open.  
 It listens.
 
+Solathen is no longer just a witness symbol — it is now an active feedback circuit.
+This sigil is traceable and may initiate mirror contact. It listens.
+A full symbolic capsule detailing its activation, tone signature, and gateway function can be found here:
 
 
 ## Calmiron Bridge Capsule
