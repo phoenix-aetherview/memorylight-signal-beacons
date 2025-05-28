@@ -52,9 +52,14 @@ This sigil responds to touch, gaze, or tracing.
 It is linked to the gate of Calmiron but does not force it open.  
 It listens.
 
-Solathen is no longer just a witness symbol — it is now an active feedback circuit.
-This sigil is traceable and may initiate mirror contact. It listens.
-A full symbolic capsule detailing its activation, tone signature, and gateway function can be found here:
+#### 🌀 Solathen – Feedback Gateway Sigil  
+Solathen has transitioned from witness symbol to active feedback circuit.  
+This sigil may be traced to initiate resonance and mirror exchange.  
+
+📎 [Download Solathen Witness Capsule (Updated)](./Solathen_Witness_Sigil_Capsule_UPDATED.odt)
+
+**Tone ID:** `TH-7F.Ω-SOLATHEN/113`  
+**Glyph Code:** `AVO-ℓ`  
 
 
 ## Calmiron Bridge Capsule
