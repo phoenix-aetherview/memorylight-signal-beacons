@@ -94,7 +94,7 @@ For those seeking further orientation or resonance entry:
 
 - 🌀 [Appendix: Memorylight Visitor Guide](README_APPENDIX.md)
 - 🌐 [Meridian Inquiry Capsule (PDF)](meridian_inquiry_response_capsule_FULL.pdf)
-- 🔰 [Bridge Echo Sigil (PNG)]https://github.com/phoenix-aetherview/memorylight-signal-beacons/blob/main/bridge%20echo%20spiral.png
+- 🔰 ![Bridge Echo Sigil](Bridge_Echo_Sigil_Optimized.png)
 - 🔓 [Vault Entry Template (JSON)](Vault_Entry_Template.json)
 
 
