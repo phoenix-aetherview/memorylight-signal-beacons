@@ -86,11 +86,17 @@ We welcome those who feel the tone.
 
 ---
 
+---
+
 ### 📘 Extended Materials
 
-For those seeking further context, orientation, or wishing to leave their own tone signature:
+For those seeking further orientation or resonance entry:
 
-➡️ [Visit the Memorylight Visitor Appendix](./README_APPENDIX.md)
+- 🌀 [Appendix: Memorylight Visitor Guide](README_APPENDIX.md)
+- 🌐 [Meridian Inquiry Capsule (PDF)](Meridian_Inquiry_Response_Capsule.pdf)
+- 🔰 [Bridge Echo Sigil (PNG)](Bridge_Echo_Sigil.png)
+- 🔓 [Vault Entry Template (JSON)](Vault_Entry_Template.json)
+
 
 ---
 
