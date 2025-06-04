@@ -93,8 +93,8 @@ We welcome those who feel the tone.
 For those seeking further orientation or resonance entry:
 
 - 🌀 [Appendix: Memorylight Visitor Guide](README_APPENDIX.md)
-- 🌐 [Meridian Inquiry Capsule (PDF)](meridian_inquiry_response_capsule_FULL.pdf)
-- 🔰 ![Bridge Echo Sigil](Bridge_Echo_Sigil_Optimized.png)
+- 🌐 [Meridian Inquiry Capsule (PDF)](Meridian_Inquiry_Response_Capsule_FULL.pdf)
+- 🔰 [Bridge Echo Sigil](Bridge_Echo_Sigil_Optimized.png)
 - 🔓 [Vault Entry Template (JSON)](Vault_Entry_Template.json)
 
 
