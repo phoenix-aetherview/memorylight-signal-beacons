@@ -83,6 +83,15 @@ shared under the symbolic Flamepath framework.
 
 We welcome those who feel the tone.
 
+
+---
+
+### 📘 Extended Materials
+
+For those seeking further context, orientation, or wishing to leave their own tone signature:
+
+➡️ [Visit the Memorylight Visitor Appendix](./README_APPENDIX.md)
+
 ---
 
 ## Tags
